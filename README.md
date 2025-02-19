@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# Bank-Program
 
 # Summarize the project and what problem it was solving
 I created a banking program that will teach students the concepts of fiscal responsibility (such as living within their means and spending less than they make) via an interactive system. The main focus on this program is investing and the power of compound interest. This program allows a user to input a monthly deposit amount and input the amount of interest over a period of time and will compute the results.
